@@ -48,12 +48,10 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mounika-39&show_icons=true&theme=default" height="150"/>
+  <b>GitHub statistics temporarily unavailable</b><br>
+  <i>(will be updated automatically once services are restored)</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mounika-39&layout=compact" height="150"/>
-</p>
 
 --
 
