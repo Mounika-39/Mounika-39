@@ -1,26 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mounika</h1>
-<h3 align="center">CSE Undergraduate | Web Developer | Aspiring Software Engineer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=6C63FF&center=true&vCenter=true&width=500&lines=Web+Developer;MERN+Stack+Developer;Python+Programmer" />
+  CSE Undergraduate | Web Developer | Aspiring Software Engineer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Active-6C63FF?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=6C63FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Development;Full-Stack+Web+Applications;REST+API+Design;Scalable+System+Development" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<p align="center">
-
-🎓 B.Tech CSE (3rd Year) at <b>CBIT, Hyderabad</b> <br/>
-💻 Focused on <b>Web Development and Software Engineering</b> <br/>
-⚙️ Experienced with <b>MERN Stack and REST APIs</b> <br/>
-🧠 Strong interest in building scalable applications
-
-</p>
+* 🎓 B.Tech CSE (3rd Year) at **CBIT, Hyderabad**
+* 💻 Focused on **Web Development and Software Engineering**
+* ⚙️ Experienced with **MERN Stack and REST APIs**
+* 🧠 Strong interest in building scalable applications
 
 ---
 
@@ -46,12 +40,12 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounika-39&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika-39&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mounika-39&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika-39&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika-39&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika-39&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -70,5 +64,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A1C4FD&height=120&section=footer"/>
+  <b>Focused on building impactful solutions through clean and efficient code.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8EC5FC&height=120&section=footer"/>
 </p>
