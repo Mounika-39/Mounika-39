@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergraduate | Web Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=450&lines=Web+Developer;MERN+Stack+Developer;Python+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=450&lines=Software Engineering Enthusiast;MERN+Stack+Developer;Python+Programmer" />
 </p>
 
 <p align="center">
@@ -67,10 +67,10 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/r-mounika">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rathlavathmounika293@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
