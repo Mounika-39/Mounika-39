@@ -5,22 +5,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=450&lines=Web+Developer;MERN+Stack+Developer;Python+Programmer" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mounika-39&label=Profile%20views&color=0A66C2&style=flat" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-<p align="center">
-🎓 B.Tech CSE (3rd Year) at <b>CBIT, Hyderabad</b><br>
-💻 Focused on <b>Web Development and Software Engineering</b><br>
-⚙️ Experienced with <b>MERN Stack and REST APIs</b><br>
-🧠 Strong interest in building scalable applications
-</p>
+* 🎓 B.Tech CSE (3rd Year) at **CBIT, Hyderabad**
+* 💻 Focused on **Web Development and Software Engineering**
+* ⚙️ Experienced with **MERN Stack and REST APIs**
+* 🧠 Strong interest in building scalable applications
 
 ---
 
 ## 🛠️ Technical Skills
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -52,7 +54,7 @@
 
 ## 🌐 Connect
 
-<p align="center">
+<p>
   <a href="your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -64,5 +66,5 @@
 ---
 
 <p align="center">
-  <i>Focused on building clean, scalable, and efficient software solutions.</i>
+  <b>Focused on building clean, scalable, and efficient software solutions.</b>
 </p>
