@@ -48,9 +48,18 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <b>GitHub statistics temporarily unavailable</b><br>
-  <i>(will be updated automatically once services are restored)</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mounika-39&theme=github" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mounika-39&theme=github" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mounika-39&theme=github" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mounika-39&theme=github" height="150"/>
+</p>
+
 
 
 --
