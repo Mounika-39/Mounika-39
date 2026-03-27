@@ -55,8 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika-39&layout=compact&hide_border=true" height="150"/>
 </p>
-
----
+--
 
 ## 🌐 Connect
 
