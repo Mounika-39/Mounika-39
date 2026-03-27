@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergraduate | Web Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=450&lines=Software Engineering Enthusiast;MERN+Stack+Developer;Python+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=450&lines=Software+Engineering+Enthusiast;MERN+Stack+Developer;Python+Programmer" />
 </p>
 
 <p align="center">
