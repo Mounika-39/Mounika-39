@@ -48,13 +48,13 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounika-39&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika-39&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mounika-39&show_icons=true&theme=default" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika-39&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mounika-39&layout=compact" height="150"/>
 </p>
+
 --
 
 ## 🌐 Connect
