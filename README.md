@@ -55,10 +55,10 @@
 ## 🌐 Connect
 
 <p>
-  <a href="your-linkedin-profile">
+  <a href="www.linkedin.com/in/r-mounika">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rathlavathmounika293@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <b>Focused on building clean, scalable, and efficient software solutions.</b>
+  <b>Consistency in learning, precision in code.</b>
 </p>
