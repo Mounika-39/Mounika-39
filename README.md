@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <i>Consistency in learning, precision in code.</i>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=450&lines=Software+Engineering+Enthusiast;MERN+Stack+Developer;Python+Programmer" />
 </p>
 
@@ -77,10 +81,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <b>Consistency in learning, precision in code.</b>
-</p>
 
 <br>
 
