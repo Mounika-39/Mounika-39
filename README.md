@@ -80,3 +80,6 @@
 <p align="center">
   <b>Consistency in learning, precision in code.</b>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mounika-39/Mounika-39/output/github-contribution-grid-snake.svg" />
+</p>
