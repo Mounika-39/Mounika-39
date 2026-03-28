@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mounika</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:6C63FF&height=120&section=header&text=Mounika&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h3 align="center">CSE Undergraduate | Web Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
@@ -93,3 +96,7 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:0A66C2&height=100&section=footer"/>
+</p>
