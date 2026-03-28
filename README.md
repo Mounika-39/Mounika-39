@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:6C63FF&height=120&section=header&text=Mounika&fontSize=40&fontColor=ffffff"/>
-</p>
+<h1 align="center">Hi 👋, I'm Mounika</h1>
 
-<h3 align="center">CSE Undergraduate | Web Developer | Aspiring Software Engineer</h3>
+<p align="center">
+  <b>CSE Undergraduate • Web Developer • Aspiring Software Engineer</b>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0A66C2&center=true&vCenter=true&width=450&lines=Software+Engineering+Enthusiast;MERN+Stack+Developer;Python+Programmer" />
@@ -93,10 +93,4 @@
     <img 
       src="https://raw.githubusercontent.com/Mounika-39/Mounika-39/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:0A66C2&height=100&section=footer"/>
 </p>
