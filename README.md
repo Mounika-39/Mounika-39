@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech CSE (3rd Year) at **CBIT, Hyderabad**
+* 🎓 B.Tech CSE at **CBIT, Hyderabad**
 * 💻 Focused on **Web Development and Software Engineering**
 * ⚙️ Experienced with **MERN Stack and REST APIs**
 * 🧠 Strong interest in building scalable applications
